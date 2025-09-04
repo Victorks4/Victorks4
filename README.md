@@ -11,9 +11,8 @@ insira ## Olá!!! Eu sou o Dev Santos
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Vnb2tyMWM4bDRjeGZscmFxZmpnamg1YTF0M3hkdmZrcTZlMnF4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkW0maGDN1eSc/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Vnb2tyMWM4bDRjeGZscmFxZmpnamg1YTF0M3hkdmZrcTZlMnF4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkW0maGDN1eSc/giphy.gif"  />
 
-<br><br>
 <br><br>
 <br><br>
 <br><br>
