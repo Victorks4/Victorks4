@@ -12,7 +12,9 @@
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qMGV1bDBocWZibmdpOG52OHowZDQybXc4NHV5dWtsMDIxaHoyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GY6Zmupsc3ilQbsjbL/giphy.gif"  />
-<div style="margin-top: 50px;">
+<br><br>
+<br><br>
+<br><br>
 
 ## I code with:
 
@@ -38,7 +40,7 @@
 
 ### 
 
-<br><br>
+
 
 
 ## Communicate with me:
