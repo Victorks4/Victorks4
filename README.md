@@ -15,6 +15,8 @@
 
 ###
 
+## I code with:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -35,8 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
 </div>
 
-###
+### 
 
+## Communicate with me:
 <div align="left">
   <a href="https://discord.com/users/1251204355298824338" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -52,4 +55,5 @@
   </a>
 </div>
 
+## Latest Commits
 ![Snake animation](https://github.com/Victorks4/Victorks4/blob/output/github-contribution-grid-snake.svg)
