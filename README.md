@@ -2,20 +2,34 @@
 
 <h6 align="left">👋 Olá, sou Victor Santos Barbosa, sou formado em Desenvolvimento de Sistemas e estudante de Engenharia de Software.<br>Atuo no desenvolvimento backend e frontend, criando soluções inovadoras em web, mobile e automação.<br>Tenho experiência em assistentes virtuais, integração de APIs de IA, WhatsApp e bancos de dados.<br>Trabalho com Python, JavaScript, TypeScript, C, React, Tailwind, além de SQLite e SQL Server.<br>Já desenvolvi projetos como o BellaBot (assistente virtual com IA e WhatsApp) e um Kanban para gestão de tarefas.<br>Também crio sites e e-commerces modernos e responsivos.<br>Atualmente, estudo arquiteturas de IA, desenvolvimento full-stack e integração de APIs complexas.<br>Sou apaixonado por basquete e sempre busco ideias de projetos inovadores.</h6>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Victorks4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victorks4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Vnb2tyMWM4bDRjeGZscmFxZmpnamg1YTF0M3hkdmZrcTZlMnF4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkW0maGDN1eSc/giphy.gif"  />
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+
+
+### 🎓 Minhas Certificações
+
+<p align="left">
+  <a href="https://www.credly.com/badges/ID-DA-BADGE-1/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/ID-DA-IMAGEM-1.png" width="120" alt="Certificação 1"/>
+  </a>
+  <a href="https://www.credly.com/badges/ID-DA-BADGE-2/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/ID-DA-IMAGEM-2.png" width="120" alt="Certificação 2"/>
+  </a>
+  <a href="https://www.credly.com/badges/ID-DA-BADGE-3/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/ID-DA-IMAGEM-3.png" width="120" alt="Certificação 3"/>
+  </a>
+</p>
+
+
+---
 
 ## I code with:
 
@@ -39,10 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
 </div>
 
-### 
-
-
-
+---
 
 ## Communicate with me:
 <div align="left">
@@ -59,6 +70,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+---
 
 ## Latest Commits
 ![Snake animation](https://github.com/Victorks4/Victorks4/blob/output/github-contribution-grid-snake.svg)
