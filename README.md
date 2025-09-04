@@ -12,10 +12,9 @@
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1qMGV1bDBocWZibmdpOG52OHowZDQybXc4NHV5dWtsMDIxaHoyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GY6Zmupsc3ilQbsjbL/giphy.gif"  />
+<div style="margin-top: 50px;">
 
-###
-
-### I code with:
+## I code with:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,8 +38,10 @@
 
 ### 
 
+<br><br>
 
-### Communicate with me:
+
+## Communicate with me:
 <div align="left">
   <a href="https://discord.com/users/1251204355298824338" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
