@@ -2,206 +2,83 @@
 
 # Victor Santos Barbosa
 
-### Full Stack Developer • Software Engineering Student
+### Desenvolvedor Full Stack · Engenharia de Software · SENAI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+real+software.;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;AI+Integrations+%26+Automation;Always+learning+something+new." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&lines=Construo+software+que+roda+em+produ%C3%A7%C3%A3o.;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;IA+e+automa%C3%A7%C3%A3o+com+impacto+real;8+sistemas+em+produ%C3%A7%C3%A3o+no+SENAI+e+clientes" alt="Typing animation" />
 
 <br/>
 
 <a href="https://portfolio-devsant.web.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="Portfólio" />
 </a>
 
 <a href="https://www.linkedin.com/in/victor-santos-barbosa-985390274/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 
-<a href="mailto:vitinsantosks4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://www.instagram.com/victor.sb02">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<a href="mailto:devsantjs.tech@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## Em números
 
-Sou desenvolvedor **Full Stack**, formado em **Desenvolvimento de Sistemas** e atualmente cursando **Engenharia de Software**.
-
-Atualmente trabalho no **SENAI Feira de Santana**, desenvolvendo sistemas internos, integrações com bancos de dados, automações e soluções que geram impacto real.
-
-### 🚀 Atualmente focado em
-
-- Desenvolvimento Full Stack
-- APIs REST
-- OpenAI & Gemini AI
-- Docker
-- Firebase & Supabase
-- SQL Server & MySQL
-- Arquitetura de Software
+- **8** projetos em produção
+- **SENAI** — sistemas internos usados no dia a dia da instituição
+- **IA** — atendimento 24/7 no WhatsApp com Gemini (BellaBot)
 
 ---
 
-# ⚡ Tech Stack
+## Sobre
 
-<div align="center">
+Desenvolvedor Full Stack e estudante de Engenharia de Software. Atuo no **SENAI Feira de Santana** como estagiário, colocando em produção sistemas internos, APIs e automações com IA.
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,nodejs,express,java,python,prisma,mysql,sqlite,firebase,supabase,docker,git,github,vscode,androidstudio,tailwind&perline=10"/>
-
-</div>
+Foco em **React, Node.js, TypeScript** e arquitetura que aguenta uso real — não só exercícios de tutorial.
 
 ---
 
-# 💼 Experiência
+## Stack
 
-## SENAI Feira de Santana
-
-**Desenvolvimento de Sistemas**
-
-Atuação no desenvolvimento e manutenção de soluções internas utilizadas pela instituição.
-
-### Principais atividades
-
-- Desenvolvimento de aplicações web completas.
-- Integração com SQL Server e SQLite.
-- Automação de processos internos.
-- Manutenção e evolução de sistemas existentes.
-- Suporte técnico e infraestrutura de laboratórios.
+| Camada | Tecnologias |
+|--------|-------------|
+| **Frontend** | React, TypeScript, Tailwind CSS, Three.js |
+| **Backend** | Node.js, NestJS, Express, PostgreSQL |
+| **Dados & Cloud** | Firebase, SQLite/SQL, Supabase |
+| **IA & Automação** | Gemini API, WhatsApp API, Python, chatbots |
 
 ---
 
-# 🚀 Projetos em Destaque
+## Projetos em destaque
 
-<table>
-<tr>
-<td width="50%">
+Sistemas para necessidades reais de clientes e do SENAI. Cases completos no [portfólio](https://portfolio-devsant.web.app).
 
-## 🤖 BellaBot
-
-Assistente inteligente integrado ao WhatsApp utilizando IA.
-
-- OpenAI
-- WhatsApp API
-- Automação de atendimento
-
-**Stack**
-
-`Node.js` `TypeScript` `OpenAI`
-
-</td>
-
-<td width="50%">
-
-## 🔑 SmartKey
-
-Sistema de gerenciamento de chaves desenvolvido para o SENAI.
-
-- Controle de empréstimos
-- Gestão de usuários
-- Histórico completo
-
-**Stack**
-
-`React` `Node.js` `SQLite`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📋 Pontify
-
-Plataforma de controle de frequência e banco de horas.
-
-- Dashboard
-- Relatórios
-- Gestão de horas
-
-**Stack**
-
-`React` `TypeScript` `Firebase`
-
-</td>
-
-<td width="50%">
-
-## ❤️ Hemobytes
-
-Plataforma voltada para incentivo à doação de sangue.
-
-**Stack**
-
-`React` `Supabase`
-
-</td>
-</tr>
-</table>
+| Projeto | Impacto | Stack | Case |
+|---------|---------|-------|------|
+| **BellaBot** · Em produção | Atendimento 24/7 no WhatsApp com IA contextual | `Python` `Gemini` `SQLite` | [ver](https://portfolio-devsant.web.app/projetos/bellabot) |
+| **Smart Key** · Em produção | 0 folhas de papel na portaria; movimentações auditáveis | `React` `Node.js` `Firebase` | [ver](https://portfolio-devsant.web.app/projetos/smart-key) |
+| **PontiFy** · Em produção | Ponto e banco de horas sem planilhas no fechamento | `Next.js` `NestJS` `PostgreSQL` | [ver](https://portfolio-devsant.web.app/projetos/pontify) |
+| **Origyn** · Em desenvolvimento | Provador virtual 3D com avatar parametrizado | `React` `Three.js` `NestJS` | [ver](https://portfolio-devsant.web.app/projetos/origyn) |
 
 ---
 
-# 📊 GitHub Analytics
+## Experiência — SENAI Feira de Santana
 
-<div align="center">
+**Estagiário de Desenvolvimento** · 2026 — hoje
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Victorks4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorks4&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img src="https://streak-stats.demolab.com?user=Victorks4&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
+- Sistemas web em uso diário na instituição (controle de chaves, ponto, automações)
+- Integração com **SQL Server** e **SQLite** em fluxos operacionais
+- Manutenção evolutiva e automação de processos internos
+- Suporte a laboratórios e infraestrutura de desenvolvimento
 
 ---
 
-# 🌱 Atualmente aprendendo
+## Contato
 
-<div align="center">
+**E-mail:** [devsantjs.tech@gmail.com](mailto:devsantjs.tech@gmail.com)  
+**Local:** Feira de Santana, BA · Remoto ou híbrido  
+**Disponível** para oportunidades Full Stack e projetos com IA
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux"/>
-
-</div>
-
-- Arquitetura de Software
-- Microsserviços
-- Cloud Computing
-- Inteligência Artificial aplicada
-- Escalabilidade de aplicações
-
----
-
-# 🤝 Vamos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/victor-santos-barbosa-985390274/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:vitinsantosks4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Victorks4">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github.com/Victorks4/Victorks4/blob/output/github-contribution-grid-snake.svg"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Victorks4&style=flat-square&color=8B5CF6"/>
-
-### 💜 Building useful software, one commit at a time.
-
-</div>
+[GitHub](https://github.com/Victorks4) · [LinkedIn](https://www.linkedin.com/in/victor-santos-barbosa-985390274/) · [Portfólio](https://portfolio-devsant.web.app) · [Instagram](https://www.instagram.com/victor.sb02)
