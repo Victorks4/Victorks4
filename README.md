@@ -2,7 +2,7 @@
 
 # Victor Santos Barbosa
 
-### Desenvolvedor Full Stack · Engenharia de Software · SENAI
+### Desenvolvedor Full Stack · Engenharia de Software
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&lines=Construo+software+que+roda+em+produ%C3%A7%C3%A3o.;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;IA+e+automa%C3%A7%C3%A3o+com+impacto+real;8+sistemas+em+produ%C3%A7%C3%A3o+no+SENAI+e+clientes" alt="Typing animation" />
 
