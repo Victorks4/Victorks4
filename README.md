@@ -42,13 +42,6 @@ Foco em **React, Node.js, TypeScript** e arquitetura que aguenta uso real, não 
 
 ## Stack
 
-| Camada | Tecnologias |
-|--------|-------------|
-| **Frontend** | React, TypeScript, Tailwind CSS, Three.js |
-| **Backend** | Node.js, NestJS, Express, PostgreSQL |
-| **Dados & Cloud** | Firebase, SQLite/SQL, Supabase |
-| **IA & Automação** | Gemini API, WhatsApp API, Python, chatbots |
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,nodejs,express,java,python,prisma,mysql,sqlite,firebase,supabase,docker,git,github,vscode,androidstudio,tailwind&perline=10"/>
