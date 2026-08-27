@@ -27,8 +27,8 @@
 ## Em números
 
 - **8** projetos em produção
-- **SENAI** — sistemas internos usados no dia a dia da instituição
-- **IA** — atendimento 24/7 no WhatsApp com Gemini (BellaBot)
+- **SENAI**, sistemas internos usados no dia a dia da instituição
+- **IA**, atendimento 24/7 no WhatsApp com Gemini (BellaBot)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Desenvolvedor Full Stack e estudante de Engenharia de Software. Atuo no **SENAI Feira de Santana** como estagiário, colocando em produção sistemas internos, APIs e automações com IA.
 
-Foco em **React, Node.js, TypeScript** e arquitetura que aguenta uso real — não só exercícios de tutorial.
+Foco em **React, Node.js, TypeScript** e arquitetura que aguenta uso real, não só exercícios de tutorial.
 
 ---
 
@@ -48,6 +48,12 @@ Foco em **React, Node.js, TypeScript** e arquitetura que aguenta uso real — n�
 | **Backend** | Node.js, NestJS, Express, PostgreSQL |
 | **Dados & Cloud** | Firebase, SQLite/SQL, Supabase |
 | **IA & Automação** | Gemini API, WhatsApp API, Python, chatbots |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,nodejs,express,java,python,prisma,mysql,sqlite,firebase,supabase,docker,git,github,vscode,androidstudio,tailwind&perline=10"/>
+
+</div>
 
 ---
 
@@ -64,9 +70,9 @@ Sistemas para necessidades reais de clientes e do SENAI. Cases completos no [por
 
 ---
 
-## Experiência — SENAI Feira de Santana
+## Experiência no SENAI Feira de Santana
 
-**Estagiário de Desenvolvimento** · 2026 — hoje
+**Estagiário de Desenvolvimento** · 2026 a hoje
 
 - Sistemas web em uso diário na instituição (controle de chaves, ponto, automações)
 - Integração com **SQL Server** e **SQLite** em fluxos operacionais
