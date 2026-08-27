@@ -2,9 +2,9 @@
 
 # Olá, eu sou Victor Santos Barbosa 👋
 
-### Full Stack Developer • Software Engineering Student
+### Full Stack Developer • Estudante de Engenharia de Software
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+real+software.;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;AI+Integrations+%26+Automation;Always+learning+something+new." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Construindo+software+de+verdade.;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Integra%C3%A7%C3%B5es+de+IA+%26+Automa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo." alt="Typing SVG"/>
 
 <p>
   <a href="https://portfolio-devsant.web.app">
@@ -16,30 +16,32 @@
   <a href="mailto:vitinsantosks4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
+  <img src="https://img.shields.io/badge/Dispon%C3%ADvel_para_projetos-111827?style=for-the-badge&logo=checkmarx&logoColor=22C55E"/>
 </p>
 
 </div>
 
 ---
 
-# Sobre mim
+## 🧑‍💻 Sobre mim
 
 Sou desenvolvedor **Full Stack**, formado em **Desenvolvimento de Sistemas** e atualmente cursando **Engenharia de Software**.
 
-Atualmente atuo no **SENAI Feira de Santana**, desenvolvendo sistemas internos, integrações com bancos de dados, automações e soluções que otimizam processos.
+Atuo no **SENAI Feira de Santana**, onde desenvolvo sistemas internos, integrações com bancos de dados, automações e soluções que otimizam processos do dia a dia da instituição.
 
-### Atualmente focado em
+Gosto de transformar problemas reais em software funcional — do backend à interface, passando por integrações com IA quando fazem sentido.
 
-- Desenvolvimento Full Stack
-- APIs REST
-- OpenAI & Gemini AI
-- Docker
-- Supabase & Firebase
-- SQL Server & MySQL
+**Focado atualmente em:**
+
+- 🔹 Desenvolvimento Full Stack (APIs REST + interfaces modernas)
+- 🔹 Integrações com OpenAI & Gemini
+- 🔹 Docker e boas práticas de deploy
+- 🔹 Supabase & Firebase
+- 🔹 SQL Server & MySQL
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -49,46 +51,38 @@ Atualmente atuo no **SENAI Feira de Santana**, desenvolvendo sistemas internos, 
 
 ---
 
-# Experiência
+## 💼 Experiência
 
-## SENAI Feira de Santana
+### SENAI Feira de Santana — Desenvolvimento de Sistemas
 
-**Desenvolvimento de Sistemas**
-
-- Desenvolvimento de aplicações web internas.
-- Integração com SQL Server e SQLite.
-- Automação de processos.
-- Manutenção e evolução de sistemas existentes.
-- Suporte técnico e infraestrutura.
+- Desenvolvimento de aplicações web internas
+- Integração com SQL Server e SQLite
+- Automação de processos manuais
+- Manutenção e evolução de sistemas legados
+- Suporte técnico e infraestrutura
 
 ---
 
-# Projetos em destaque
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%">
 
-### BellaBot
-
+### 🤖 BellaBot
 Assistente inteligente integrado ao WhatsApp utilizando IA.
 
-- OpenAI
-- WhatsApp API
-- Automação
+**Destaques:** OpenAI • WhatsApp API • Automação de atendimento
 
 **Stack:** `Node.js` `TypeScript` `OpenAI`
 
 </td>
 <td width="50%">
 
-### SmartKey
-
+### 🔑 SmartKey
 Sistema de gerenciamento de chaves desenvolvido para o SENAI.
 
-- Controle de empréstimos
-- Permissões
-- Histórico completo
+**Destaques:** Controle de empréstimos • Permissões por usuário • Histórico completo
 
 **Stack:** `React` `Node.js` `SQLite`
 
@@ -98,22 +92,20 @@ Sistema de gerenciamento de chaves desenvolvido para o SENAI.
 <tr>
 <td width="50%">
 
-### Pontify
-
+### ⏱️ Pontify
 Plataforma de controle de frequência e banco de horas.
 
-- Relatórios
-- Gestão de horas
-- Dashboard
+**Destaques:** Relatórios automáticos • Gestão de horas • Dashboard em tempo real
 
 **Stack:** `React` `TypeScript` `Firebase`
 
 </td>
 <td width="50%">
 
-### Hemobytes
+### 🩸 Hemobytes
+Plataforma voltada ao incentivo da doação de sangue.
 
-Plataforma voltada para incentivo à doação de sangue.
+**Destaques:** Conecta doadores e pontos de coleta
 
 **Stack:** `React` `Supabase`
 
@@ -121,9 +113,15 @@ Plataforma voltada para incentivo à doação de sangue.
 </tr>
 </table>
 
+<div align="center">
+
+💡 *Quer ver o código? Confira meus repositórios fixados no perfil.*
+
+</div>
+
 ---
 
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -137,7 +135,7 @@ Plataforma voltada para incentivo à doação de sangue.
 
 ---
 
-# Atualmente aprendendo
+## 📚 Atualmente aprendendo
 
 <div align="center">
 
@@ -147,23 +145,23 @@ Plataforma voltada para incentivo à doação de sangue.
 
 - Arquitetura de Software
 - Microsserviços
-- Cloud Computing
+- Cloud Computing (AWS)
 - Inteligência Artificial aplicada
 
 ---
 
-# Vamos conectar?
+## 🤝 Vamos conectar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/victor-santos-barbosa-985390274/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
+&nbsp;
 <a href="mailto:vitinsantosks4@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Victorks4">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
@@ -178,6 +176,6 @@ Plataforma voltada para incentivo à doação de sangue.
 
 <img src="https://komarev.com/ghpvc/?username=Victorks4&style=flat-square&color=8B5CF6"/>
 
-### Building useful software, one commit at a time.
+### 🚧 Construindo software útil, um commit de cada vez.
 
 </div>
